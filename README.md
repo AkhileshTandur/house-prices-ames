@@ -66,10 +66,6 @@ python -m src.train
 
 streamlit run app\app.py
 
-# 4️⃣ (Optional) Batch inference on CSV
-
-python -m src.infer --input_csv data\raw\test.csv --output_csv predictions.csv
-
 📊 Model Performance
 
 Metric	Score
@@ -137,4 +133,5 @@ Akhilesh Tandur
 📧 akhileshtandur@gmail.com
 
 🌐 https://github.com/AkhileshTandur
+
 
