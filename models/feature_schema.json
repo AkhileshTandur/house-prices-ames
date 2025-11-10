@@ -1,0 +1,43 @@
+{
+  "feature_columns": [
+    "GrLivArea",
+    "TotalBsmtSF",
+    "GarageCars",
+    "OverallQual",
+    "YearBuilt",
+    "FullBath",
+    "HalfBath",
+    "BsmtFullBath",
+    "BsmtHalfBath",
+    "Neighborhood",
+    "TotalBathrooms",
+    "TotalLivArea"
+  ],
+  "categorical_columns": [
+    "Neighborhood"
+  ],
+  "numeric_columns": [
+    "GrLivArea",
+    "TotalBsmtSF",
+    "GarageCars",
+    "OverallQual",
+    "YearBuilt",
+    "FullBath",
+    "HalfBath",
+    "BsmtFullBath",
+    "BsmtHalfBath",
+    "TotalBathrooms",
+    "TotalLivArea"
+  ],
+  "categorical_values": {
+    "Neighborhood": [
+      "CollgCr",
+      "Edwards",
+      "Gilbert",
+      "NAmes",
+      "OldTown",
+      "Sawyer",
+      "Somerst"
+    ]
+  }
+}
