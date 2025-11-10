@@ -80,6 +80,8 @@ Features after preprocessing	80+ (depending on dataset)
 
 🖥️ Streamlit Dashboard
 
+<img width="1745" height="1019" alt="image" src="https://github.com/user-attachments/assets/d24d6e55-66a6-4297-9942-f42742ee3c53" />
+
 Form Input: Enter a few key features (square footage, bathrooms, quality, etc.).
 
 CSV Upload: Upload a dataset with any subset of columns; app fills missing ones automatically.
@@ -133,5 +135,6 @@ Akhilesh Tandur
 📧 akhileshtandur@gmail.com
 
 🌐 https://github.com/AkhileshTandur
+
 
 
